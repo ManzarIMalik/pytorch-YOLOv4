@@ -15,6 +15,11 @@
 # import time
 # from PIL import Image, ImageDraw
 # from models.tiny_yolo import TinyYoloNet
+"""
+Usage:
+
+python demo.py cfg/yolov4.cfg yolov4.weights test.jpg
+"""
 from utils.utils import *
 from tool.darknet2pytorch import Darknet
 
