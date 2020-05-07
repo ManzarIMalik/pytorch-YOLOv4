@@ -4,5 +4,6 @@ ttest
 
 __pycache__
 .idea
+.vscode
 runs
 yolov4cv.py
