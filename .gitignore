@@ -5,3 +5,4 @@ ttest
 __pycache__
 .idea
 runs
+yolov4cv.py
